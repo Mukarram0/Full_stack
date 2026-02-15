@@ -1,0 +1,16 @@
+div{
+    color:blue;
+    border-width: 5px;
+    border-style: solid;
+    border-color: bisque;
+    height: 100px;
+    width:900px;
+    
+}
+h1{
+    border-color: black;
+    color:blue;
+    border-width:6px;
+    border-style:solid;
+    text-align: center;
+}
