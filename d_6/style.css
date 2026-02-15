@@ -1,0 +1,38 @@
+h1{
+    color:crimson;
+}
+#login{
+    background-color: white;
+    color:black;
+}
+#signup{
+background-color: white;
+    color:black;
+}
+input{
+    background-color: black;
+    color:bisque;
+}
+nav ul li{
+    font-family: Arial;
+    font-weight: normal;
+}
+span button{
+    background-color: black;
+    color: aquamarine;
+}
+button:hover{
+    color:red;
+    background-color: yellow;
+    text-decoration: underline;
+}
+p{
+    font-family:fantasy;
+}
+p+h3{
+    font-size: small;
+    font-family: monospace;
+    background-color: black;
+    color:antiquewhite;
+    text-decoration: underline;
+}
