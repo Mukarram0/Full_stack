@@ -1,0 +1,109 @@
+#container{
+    border: 2px solid lightseagreen;
+    width:600px;
+    height:600px;
+    border-radius: 10px;
+    background-color: white;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    text-align: center;
+    font-size: 90px;
+    align-items: center;
+    position: absolute;
+    bottom: 75px;
+}
+#a{
+    height:150px;
+    width:150px;
+    background-color:slategray;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+}
+#b{
+    height:150px;
+    width:150px;
+    background-color:slategray;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+
+}
+#c{
+    height:150px;
+    width:150px;
+    background-color:slategray;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+}
+#d{
+   height:150px;
+    width:150px;
+    background-color:slategray;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+}
+#e{
+    height:150px;
+    width:150px;
+    background-color:slategray;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+}
+#f{
+    height:150px;
+    width:150px;
+    background-color:slategray;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+}
+#g{
+    height:150px;
+    width:150px;
+    background-color:slategray;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+}
+#h{
+    height:150px;
+    width:150px;
+    background-color:slategray;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+}
+#i{
+    height:150px;
+    width:150px;
+    background-color:slategray;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+}
+.navbar{
+    background-color: pink;
+    border:2px solid lightseagreen;
+    border-radius: 10px;
+    width: 900px;
+    height: 50px;
+    position: absolute;
+    top:0px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+}
+.option{
+    width: 80px;
+    height: 50px;
+    font-size: 24px;
+    align-content: center;
+    margin-left: 8px;
+    line-height: 50px;
+}
