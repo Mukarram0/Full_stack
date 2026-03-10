@@ -1,0 +1,39 @@
+.card{
+    width: 400px;
+    display:grid;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.card:hover{
+    box-shadow:5px 2px 10px crimson;
+}
+img{
+    width: 100%;
+    border-radius: 25px;
+}
+#pets{
+    display: flex;
+    justify-content: space-evenly;
+}
+h2{
+    color: crimson;
+}
+h3{
+    color: crimson;
+}
+h4{
+    text-align: right;
+    color: crimson;
+}
+span{
+    color: crimson;
+}
+@media(max-width:376px)
+{
+    #pets{
+        flex-wrap: wrap;
+    }
+}
